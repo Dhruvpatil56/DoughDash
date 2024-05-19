@@ -9,7 +9,6 @@ DoughDash is a comprehensive solution designed to streamline pizza ordering proc
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 
