@@ -95,10 +95,5 @@ DoughDash/
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-This README includes all the necessary information about the technologies and frameworks used in the DoughDash project, as extracted from the provided document.
